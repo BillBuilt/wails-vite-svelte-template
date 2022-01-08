@@ -35,6 +35,9 @@ This is feature needs to basically be disabled to function alongside of the Wail
 Therefore, you will notice that the frontend is being rebuilt when Vite sees a change.
 This is accomplished by changing the `npm run dev` command from `vite` to `vite build --watch` in `/frontend/package.json`.
 
+As of this writing, Jan 2022, I have only tested this on Mac OS. I have yet to get a Windows dev environtment set up. 
+If you try this on Windows, I would appreciate it if you'd let me know how it went.
+
 
 ## Shout-Outs
 

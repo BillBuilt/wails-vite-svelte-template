@@ -1,7 +1,7 @@
 {
-  "name": "Wails + Svelte + Vite template",
-  "shortname": "wails-svelte-vite-template",
+  "name": "Wails + Vite + Svelte template",
+  "shortname": "wails-vite-svelte-template",
   "author": "Bill Matlock (bill@billbuilt.com)",
-  "description": "Wails template built from using the Vite CLI and choosing the Svelte option",
+  "description": "Wails template built from using the Vite CLI tool and choosing the Svelte option",
   "helpurl": "https://github.com/BillBuilt/wails-vite-svelte-template"
 }
